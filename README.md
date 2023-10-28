@@ -1,4 +1,4 @@
-# Marvel_Intro_to_DS
+# Marvel Introduction to Data Science
 An exercise for beginners learning data science and python using data about Marvel Comics characters. 
 Created by Aastha Jha/ 
 
